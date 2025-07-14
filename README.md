@@ -21,14 +21,16 @@ Perfect for learning about Android Activities, layouts, game loops, and publishi
 ```bash
 git clone https://github.com/Abhi90731/game1.git
 cd game1
-2️⃣ Open in Android Studio
+```
+
+### 2️⃣ Open in Android Studio
 Open Android Studio
 
 File > Open > select the game1 folder
 
 Let Gradle sync the project
 
-3️⃣ Build & Run
+### 3️⃣ Build & Run
 Connect an Android device or launch an emulator
 
 Click the Run ▶️ button in Android Studio
