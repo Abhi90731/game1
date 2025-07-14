@@ -35,14 +35,14 @@ Connect an Android device or launch an emulator
 
 Click the Run ▶️ button in Android Studio
 
-⚙️ Requirements
+## ⚙️ Requirements
 Android Studio (latest stable)
 
 Android SDK (API Level 21 or higher)
 
 Java JDK 8+
 
-📂 Project Structure
+## 📂 Project Structure
 css
 Copy
 Edit
@@ -67,8 +67,8 @@ Edit
 ![Gameplay Screenshot](screenshots/gameplay.png)
 Create a screenshots/ folder in your repo and put your images there.
 
-🗺️ Roadmap
-✅ Planned Improvements
+## 🗺️ Roadmap
+### ✅ Planned Improvements
 
  Add scoring system
 
@@ -88,39 +88,33 @@ Create a screenshots/ folder in your repo and put your images there.
 
  Publish on Google Play Store
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions, bug fixes, and improvements are welcome!
 
-How to contribute:
+### How to contribute:
 
 ⭐ Star this repo!
 
 Fork this repository
 
 Create a new branch
-
-bash
-Copy
-Edit
+```bash
 git checkout -b feature/AmazingFeature
+```
 Make your changes and commit
-
-bash
-Copy
-Edit
+```bash
 git commit -m 'Add AmazingFeature'
+```
 Push to your fork
-
-bash
-Copy
-Edit
+```bash
 git push origin feature/AmazingFeature
+```
 Open a Pull Request
 
-⚖️ License
+## ⚖️ License
 This project is open-source under the MIT License.
 
-👤 Author
+## 👤 Author
 Abhishek Bordoloi
 
 GitHub
